@@ -1,2 +1,2 @@
 # NFactoryBlog
-Exercice Blog NFactory procédural
+Exercice blog NFactory PHP procédural
